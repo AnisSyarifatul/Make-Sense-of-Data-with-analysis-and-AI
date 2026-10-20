@@ -96,14 +96,6 @@ Akurasi = (Jumlah Prediksi Benar / Jumlah Seluruh Data Uji) × 100%
 
 Akurasi digunakan untuk mengetahui seberapa baik model memprediksi data uji. Namun, karena dataset hanya terdiri dari 12 data, hasil evaluasi belum cukup untuk menunjukkan kemampuan model pada data mahasiswa yang lebih beragam.
 
-## Kelebihan Proyek
-
-- Menggunakan algoritma klasifikasi yang mudah dipahami.
-- Memiliki alur Machine Learning yang sederhana.
-- Mendukung input data mahasiswa secara interaktif.
-- Menampilkan hasil evaluasi model dalam bentuk persentase.
-- Dapat dikembangkan menggunakan dataset yang lebih besar.
-
 ## Kesimpulan
 
 Proyek ini menerapkan algoritma Decision Tree Classifier untuk memprediksi status kelulusan mahasiswa berdasarkan IPK dan persentase kehadiran. Model dilatih menggunakan data simulasi, dievaluasi menggunakan akurasi, dan digunakan untuk menghasilkan prediksi berdasarkan input baru.
