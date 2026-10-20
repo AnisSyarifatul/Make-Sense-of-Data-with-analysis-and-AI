@@ -8,14 +8,6 @@ Program dikembangkan menggunakan Python dengan library Pandas untuk pengolahan d
 
 Pengguna dapat memasukkan nilai IPK dan persentase kehadiran mahasiswa untuk memperoleh prediksi status kelulusan berupa **Lulus** atau **Belum**. Dataset yang digunakan merupakan data simulasi untuk keperluan pembelajaran, bukan data kelulusan mahasiswa yang sebenarnya.
 
-## Tujuan
-
-- Menerapkan Machine Learning untuk memprediksi kelulusan mahasiswa.
-- Memahami proses pelatihan dan pengujian model klasifikasi.
-- Mempelajari penggunaan algoritma Decision Tree Classifier.
-- Mengevaluasi performa model menggunakan akurasi.
-- Melakukan prediksi berdasarkan data mahasiswa baru.
-
 ## Teknologi yang Digunakan
 
 - Python
